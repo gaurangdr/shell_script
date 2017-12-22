@@ -1,4 +1,5 @@
 #!/bin/sh
+echo "Var"
 echo "I was called with $# parameters"
 echo "My name is $0"
 echo "My first parameter is $1"
